@@ -1,3 +1,9 @@
+---
+layout: default
+title: Eight fallacies of distributed systems
+parent: Concepts
+nav_order: 2
+---
 # Eight fallacies of distributed systems
 
 * The network is reliable

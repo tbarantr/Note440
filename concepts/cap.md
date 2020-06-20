@@ -1,3 +1,9 @@
+---
+layout: default
+title: CAP theorem
+parent: Concepts
+nav_order: 1
+---
 # CAP theorem
 * It is impossible for a distributed data store to simultaneously provide more than two out of the three guarantees
   - Consistency: Every read receives the most recent write or an error
