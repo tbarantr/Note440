@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Note440
+title: Home
 nav_order: 0
 ---
 * [CAP theorem](https://tbarantr.github.io/Note440/CAP_theorem)
