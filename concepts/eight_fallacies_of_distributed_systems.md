@@ -1,4 +1,4 @@
-# Eight fallacies
+# Eight fallacies of distributed systems
 
 * The network is reliable
 * Latency is zero
