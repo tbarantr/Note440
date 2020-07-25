@@ -16,6 +16,7 @@ nav_order: 0
 [Distributed systems for fun and profit](http://book.mixu.net/distsys/intro.html)
 
 ## Papers & Articles
+[time, clocks and the ordering of events](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 [END-TO-END ARGUMENTS IN SYSTEM DESIGN](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 [Perspectives on the CAP Theorem](https://dspace.mit.edu/bitstream/handle/1721.1/79112/Brewer2.pdf)
