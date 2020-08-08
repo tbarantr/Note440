@@ -1,2 +1,4 @@
-# Note440
-https://tbarantr.github.io/Note440/
+# scribble
+Notes from papaers and books
+
+https://tbarantr.github.io/scribble/
