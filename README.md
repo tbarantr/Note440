@@ -1,4 +1,4 @@
-# scribble
+# scribbles
 Notes from papaers and books
 
-https://tbarantr.github.io/scribble/
+https://tbarantr.github.io/scribbles/
