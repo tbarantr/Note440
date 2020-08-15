@@ -26,3 +26,20 @@ nav_order: 0
 [Life beyond Distributed Transactions: an Apostate’s Opinion](https://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf)
 [If you have too much data, then 'good enough' is good enough](https://dl.acm.org/doi/pdf/10.1145/1953122.1953140)
 [Building on Quicksand](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.195.6558&rep=rep1&type=pdf)
+
+
+Lamport clocks, vector clocks
+Time, Clocks and Ordering of Events in a Distributed System - Leslie Lamport, 1978
+
+Failure detection
+Unreliable failure detectors and reliable distributed systems - Chandra and Toueg
+Latency- and Bandwidth-Minimizing Optimal Failure Detectors - So & Sirer, 2007
+The failure detector abstraction, Freiling, Guerraoui & Kuznetsov, 2011
+
+Snapshots
+Consistent global states of distributed systems: Fundamental concepts and mechanisms, Ozalp Babaogly and Keith Marzullo, 1993
+Distributed snapshots: Determining global states of distributed systems, K. Mani Chandy and Leslie Lamport, 1985
+
+Causality
+Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail - Schwarz & Mattern, 1994
+Understanding the Limitations of Causally and Totally Ordered Communication - Cheriton & Skeen, 1993
