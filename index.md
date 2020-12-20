@@ -4,7 +4,6 @@ title: Home
 nav_order: 0
 ---
 ## TODO
-* [Distributed systems for fun and profit](http://book.mixu.net/distsys/intro.html)
 * CAP in palin text, http://ksat.me/a-plain-english-introduction-to-cap-theorem
 * "First steps" in [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
 * "Bootcamp" in [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
@@ -17,3 +16,4 @@ nav_order: 0
 * [How to Read Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 * [CAP Theorem](http://en.wikipedia.org/wiki/CAP_theorem)
 * [Fallacies of Distributed Computing](http://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+* [Distributed systems for fun and profit](http://book.mixu.net/distsys/intro.html)

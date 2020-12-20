@@ -14,7 +14,7 @@ nav_order: 1
 ## Books
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/intro.html)
 
-## Papers & Articles
+## Papers, Articles, and Talks
 * [How to Read Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 * [END-TO-END ARGUMENTS IN SYSTEM DESIGN](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 * [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
@@ -62,3 +62,28 @@ nav_order: 1
 * Raft Lecture - User Study
 * A simple totally ordered broadcast protocol - Junqueira, Reed, 2008
 * ZooKeeper Atomic Broadcast - Reed, 2011
+
+### CRDT
+* [Marc Shapiro's talk @ Microsoft](http://research.microsoft.com/apps/video/dl.aspx?id=153540) is a good starting point for understanding CRDT's
+* [CRDTs: Consistency Without Concurrency Control](http://hal.archives-ouvertes.fr/docs/00/39/79/81/PDF/RR-6956.pdf) - Letitia et al., 2009
+* [A comprehensive study of Convergent and Commutative
+Replicated Data Types](https://hal.inria.fr/file/index/docid/555588/filename/techreport.pdf)
+* [An Optimized conflict-free Replicated Set](http://arxiv.org/pdf/1210.3368v1.pdf) - Bieniusa et al., 2012
+
+### CALM theorem, confluence analysis and Bloom
+* [Joe Hellerstein's talk](http://vimeo.com/53904989) is a good introduction to the topic
+* so as [Neil Conway's talk](http://vimeo.com/45111940)
+* For Bloom in particular, see [Peter Alvaro's talk@Microsoft](http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012/Bloom-Disorderly-Programming-for-a-Distributed-World).
+
+* The Declarative Imperative: Experiences and Conjectures in Distributed Logic - Hellerstein, 2010
+* Consistency Analysis in Bloom: a CALM and Collected Approach - Alvaro et al., 2011
+* Logic and Lattices for Distributed Programming - Conway et al., 2012
+* Dedalus: Datalog in Time and Space - Alvaro et al., 2011
+
+### Dynamo; PBS; optimistic replication
+* Dynamo: Amazon’s Highly Available Key-value Store - DeCandia et al., 2007
+* PNUTS: Yahoo!'s Hosted Data Serving Platform - Cooper et al., 2008
+* The Bayou Architecture: Support for Data Sharing among Mobile Users - Demers et al. 1994
+* Probabilistically Bound Staleness for Practical Partial Quorums - Bailis et al., 2012
+* Eventual Consistency Today: Limitations, Extensions, and Beyond - Bailis & Ghodsi, 2013
+* Optimistic replication - Saito & Shapiro, 2005
